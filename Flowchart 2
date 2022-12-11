@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T11:37:43.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.2" etag="0w00UkMdYBfFeLpgGqMJ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T11:40:30.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.2" etag="CMEcb227hM6Oh0NOasD_" type="github">
   <diagram id="NbnMH9WzyVZ969I8di3e" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
             <mxPoint x="310" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FK3D1Mi5dmAsqK-MwXGT-4" value="sum=0&lt;br&gt;k=0&lt;br&gt;count=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK3D1Mi5dmAsqK-MwXGT-4" value="SUM=0&lt;br&gt;COUNT=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FK3D1Mi5dmAsqK-MwXGT-5" value="sum=sum+k&lt;br&gt;k=k+2&lt;br&gt;count=count+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK3D1Mi5dmAsqK-MwXGT-5" value="SUM=SUM+COUNT&lt;br&gt;COUNT=COUNT+2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK3D1Mi5dmAsqK-MwXGT-7" value="is count&amp;gt;99" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
